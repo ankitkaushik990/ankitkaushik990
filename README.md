@@ -1,10 +1,9 @@
-### Introduction : 
+## Introduction : 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Node.js%20Enthusiast;Java%20Developer;Building%20Scalable%20Apps&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
-
-<h3 align="center">Hi there, I'm Ankit Kaushik 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://github.com/ankitkaushik990">Ankit Kaushik</a> 👋</h3>
 <h5 align="center">Here are some links and stats you might find interesting:</h5>
 
 <p align="center">
@@ -15,12 +14,13 @@
 ## Profile Views
 <p align="center">
   <a href="https://github.com/ankitkaushik990"> <img src="https://komarev.com/ghpvc/?username=ankitkaushik990&style=for-the-badge&color=brightgreen"> </a>
+ <a href="https://www.linkedin.com/in/ankit-kaushik-me990/"><img src="https://img.shields.io/badge/Followers-1500+-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers"/></a>
 </p>
 
 ## What I'm Doing
 - 🔭 Currently immersed in backend development projects, crafting scalable solutions, and building cool stuff.
 - 🌱 Actively learning advanced Node.js techniques and exploring new technologies to stay ahead.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-kaushik)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-kaushik-me990/)
 
 ## Languages and Tools
 <p align="left">
@@ -46,6 +46,7 @@
     <img title="GitHub Activity" alt="GitHub Activity" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkaushik990&theme=dark&hide_border=true&stroke=f53b3b"/>
   </a>
 </p>
+
 
 ## Top Repositories
 <p align="left">
