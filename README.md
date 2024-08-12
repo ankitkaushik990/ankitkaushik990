@@ -1,15 +1,14 @@
-### Introduction:
+### Introduction : 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;Node.js%20Enthusiast;Java%20Developer;Building%20Scalable%20Apps&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
-
-<h3 align="center">Hi there, I'm Ankit Kaushik</h3>
+<h3 align="center">Hi there, I'm Ankit Kaushik 👋</h3>
 <h5 align="center">Here are some links and stats you might find interesting:</h5>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-kaushik"><img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ankit-kaushik-me990/"><img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/ankitkaushik9/"><img alt="LeetCode" title="LeetCode Profile" src="https://img.shields.io/badge/-LeetCode-FC6D26?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 </p>
 
@@ -26,14 +25,20 @@
 ## Languages and Tools
 <p align="left">
   <a href="https://github.com/ankitkaushik990">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,git,docker,vscode,js,html,css">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,postgresql,git,docker,vscode,postman,js,rust">
   </a>
 </p>
 
-## My Stats
+## My GitHub Stats
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ankitkaushik990&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
+
+## Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkaushik990&layout=compact&theme=gruvbox">
+</p>
+
 
 ## Activity on GitHub
 <p align="center">
